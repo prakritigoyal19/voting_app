@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".page2"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:text=" VOTING SYSTEM "
+        android:gravity="center"
+        android:textSize="45sp"
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="1"
+        android:layout_marginTop="36dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="141sp"
+        android:layout_height="0sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100sp"
+        android:layout_weight="1"
+        android:background="#40caff"
+        android:text="LOGIN"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteY="226dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="141sp"
+        android:layout_height="0sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50sp"
+        android:layout_marginBottom="200sp"
+        android:layout_weight="1"
+        android:background="#40caff"
+        android:text="SIGN UP"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="123dp"
+        tools:layout_editor_absoluteY="318dp" />
+</LinearLayout>

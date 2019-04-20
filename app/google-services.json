@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845593525303",
+    "firebase_url": "https://votingystems.firebaseio.com",
+    "project_id": "votingystems",
+    "storage_bucket": "votingystems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845593525303:android:ee44bd2b4238aea4",
+        "android_client_info": {
+          "package_name": "com.example.votingsystems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845593525303-qouu506eaqnl1sinfqrfqrtfe98ritru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.votingsystems",
+            "certificate_hash": "e067d660cb832f233617b2dede779c99dbfaff53"
+          }
+        },
+        {
+          "client_id": "845593525303-8fmnalufc269un3k1ap43p3sjqsd38qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdlzQDeb5CtyrCEElu0fLNwsTQjzR0Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845593525303-8fmnalufc269un3k1ap43p3sjqsd38qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
